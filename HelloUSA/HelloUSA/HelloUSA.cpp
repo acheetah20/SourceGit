@@ -13,9 +13,10 @@
 //                  end of change
 //
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello USA!\n";
-    std::cout << "We are united. No Coronavirus!\n";
+    cout << "Hello USA!\n";
+    cout << "We are united. No Coronavirus!\n";
 }
